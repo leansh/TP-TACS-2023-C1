@@ -2,9 +2,7 @@
 
 El objetivo del TP es desarrollar una aplicación que sirva para organizar reuniones entre varias personas.
 
----
-
-Enunciado: [link al enunciado](enunciado.md)
+[Link al enunciado](enunciado.md)
 
 ## Como buildear y correr los tests
 ```
